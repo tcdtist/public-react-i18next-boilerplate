@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-family: "Inter", sans-serif;
+
+    --primary: 215 100% 50%;
+    --primary-dark: 215 100% 40%;
+    --primary-light: 215 100% 60%;
+
+    --secondary: 215 100% 50%;
+    --secondary-dark: 215 100% 40%;
+    --secondary-light: 215 100% 60%;
+
+    --success: 145 60% 53%;
+    --success-dark: 145 60% 43%;
+    --success-light: 145 60% 63%;
+
+    --info: 195 85% 60%;
+    --info-dark: 195 85% 50%;
+    --info-light: 195 85% 70%;
+
+    --warning: 45 85% 60%;
+    --warning-dark: 45 85% 50%;
+    --warning-light: 45 85% 70%;
+
+    --danger: 350 82% 61%;
+    --danger-dark: 350 82% 51%;
+    --danger-light: 350 82% 71%;
+
+    --light: 210 20% 96%;
+    --light-dark: 210 20% 92%;
+    --light-light: 210 20% 98%;
+
+    --dark: 210 14% 10%;
+    --dark-dark: 210 14% 5%;
+    --dark-light: 210 14% 15%;
+
+    --font-size: 16px;
+    --font-weight: 400;
+
+    --line-height: 1.5;
+
+    --border-radius: 0.5rem;
+
+    --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+
+    --transition: all 0.2s ease-in-out;
+
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+  }
+}
+
+@layer components {
+}
