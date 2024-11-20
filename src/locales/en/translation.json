@@ -1,0 +1,23 @@
+{
+    "common": {
+        "changeLanguage": "Change Language",
+        "description": "This is a demonstration of different i18n implementation methods",
+        "welcome": "Welcome to our demo"
+    },
+    "demo": {
+        "context": "This is Context implementation",
+        "i18next": "This is default i18next implementation",
+        "zustand": "This is Zustand implementation"
+    },
+    "footer": {
+        "copyright": "© 2024 I18n Demo. All rights reserved."
+    },
+    "header": {
+        "nav": {
+            "context": "Context Demo",
+            "i18next": "I18next Demo",
+            "zustand": "Zustand Demo"
+        },
+        "title": "I18n Demo"
+    }
+}

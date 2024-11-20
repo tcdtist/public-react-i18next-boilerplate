@@ -1,0 +1,23 @@
+{
+    "common": {
+        "changeLanguage": "Đổi ngôn ngữ",
+        "description": "Đây là demo về các phương pháp thực hiện i18n khác nhau",
+        "welcome": "Chào mừng đến với demo của chúng tôi"
+    },
+    "demo": {
+        "context": "Đây là triển khai bằng Context",
+        "i18next": "Đây là triển khai mặc định của i18next",
+        "zustand": "Đây là triển khai bằng Zustand"
+    },
+    "footer": {
+        "copyright": "© 2024 Demo I18n. Đã đăng ký bản quyền."
+    },
+    "header": {
+        "nav": {
+            "context": "Demo Context",
+            "i18next": "Demo I18next",
+            "zustand": "Demo Zustand"
+        },
+        "title": "Demo I18n"
+    }
+}
