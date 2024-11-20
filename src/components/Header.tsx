@@ -20,6 +20,9 @@ export const Header = () => {
             <Link to="/i18next" className="nav-link">
               {t("header.nav.i18next")}
             </Link>
+            <Link to="/redux" className="nav-link">
+              {t("header.nav.redux")}
+            </Link>
           </nav>
         </div>
       </div>

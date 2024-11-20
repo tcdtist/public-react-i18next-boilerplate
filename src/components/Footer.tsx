@@ -1,6 +1,8 @@
-import { t } from "../config/i18n";
+import { useTranslation } from "react-i18next";
 
 export const Footer = () => {
+  const { t } = useTranslation();
+
   return (
     <footer className="bg-white shadow-md py-4 mt-auto">
       <div className="container">

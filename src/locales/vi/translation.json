@@ -8,6 +8,7 @@
         "context": "Đây là triển khai bằng Context",
         "home": "Đây là triển khai cấp global",
         "i18next": "Đây là triển khai mặc định của i18next",
+        "redux": "Đây là triển khai bằng Redux",
         "zustand": "Đây là triển khai bằng Zustand"
     },
     "footer": {
@@ -17,6 +18,7 @@
         "nav": {
             "context": "Demo Context",
             "i18next": "Demo I18next",
+            "redux": "Demo Redux",
             "zustand": "Demo Zustand"
         },
         "title": "Demo I18n"

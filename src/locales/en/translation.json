@@ -8,6 +8,7 @@
         "context": "This is Context implementation",
         "home": "This is a global deployment",
         "i18next": "This is default i18next implementation",
+        "redux": "This is Redux implementation",
         "zustand": "This is Zustand implementation"
     },
     "footer": {
@@ -17,6 +18,7 @@
         "nav": {
             "context": "Context Demo",
             "i18next": "I18next Demo",
+            "redux": "Redux Demo",
             "zustand": "Zustand Demo"
         },
         "title": "I18n Demo"
