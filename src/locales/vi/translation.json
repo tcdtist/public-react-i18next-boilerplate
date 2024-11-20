@@ -6,6 +6,7 @@
     },
     "demo": {
         "context": "Đây là triển khai bằng Context",
+        "home": "Đây là triển khai cấp global",
         "i18next": "Đây là triển khai mặc định của i18next",
         "zustand": "Đây là triển khai bằng Zustand"
     },

@@ -6,6 +6,7 @@
     },
     "demo": {
         "context": "This is Context implementation",
+        "home": "This is a global deployment",
         "i18next": "This is default i18next implementation",
         "zustand": "This is Zustand implementation"
     },
